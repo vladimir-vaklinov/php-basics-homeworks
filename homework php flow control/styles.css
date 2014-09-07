@@ -1,0 +1,25 @@
+#total {
+    font-weight: bold;
+    background-color: orange;
+    color: black;
+}
+
+#sum {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    background-color: yellow;
+    color: darkblue;
+}
+
+th {
+    background-color: blue;
+    color: white;
+}
